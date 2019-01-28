@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string-array name="filter_name">
+        <item>无</item>
+        <item>珊瑚色</item>
+        <item>水蜜桃</item>
+        <item>樱桃红</item>
+        <item>咬唇红</item>
+        <item>赤</item>
+        <item>橙</item>
+        <item>黄</item>
+        <item>绿</item>
+    </string-array>
+    <string-array name="filter_items">
+        <item>filter_none</item>
+        <item>filter_0</item>
+        <item>filter_1</item>
+        <item>filter_2</item>
+        <item>filter_3</item>
+        <item>filter_4</item>
+        <item>filter_5</item>
+        <item>filter_6</item>
+        <item>filter_7</item>
+    </string-array>
+
+</resources>
